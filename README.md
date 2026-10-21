@@ -1,2 +1,4 @@
 # fundamentos-de-la-programacion
-hola :D
+## Mi nombre es Guillermo Duran
+Este es el repositorio de la materia de fundamentos de programación
+Es mi primer repositorio.
