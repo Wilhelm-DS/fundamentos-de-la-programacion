@@ -1,0 +1,1 @@
+Se define como todo aquello cuyo proceso se basa en la repetición o ITERACIÓN de si mismo para alcanzar un resultado.
