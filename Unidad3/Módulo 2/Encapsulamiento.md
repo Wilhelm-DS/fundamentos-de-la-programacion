@@ -1,0 +1,1 @@
+Es una operación de la POO, en donde dentro de una clase, se limitan los métodos a lo que esté dentro de la misma clase, es decir, solo lo que esté dentro de la clase puede usar sus métodos, y no puede ser usada por nada externo.

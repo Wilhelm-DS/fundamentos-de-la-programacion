@@ -1,0 +1,1 @@
+Es la propiedad de la programación orientada a objetos de poder ejecutar un solo método para una clase, y que este método de un distinto resultado según la clase a la que se llame, sin la necesidad de elaborar distintos métodos para cada clase individual, sino un solo metodo para todas las clases.
